@@ -86,28 +86,6 @@ Launch prediction API
 bashpython app.py
 
 
-Project Structure
-HeartSage-AI-Cardiovascular-Disease-Prediction/
-├── notebooks/                     # Jupyter notebooks for analysis
-│   ├── HeartSage_Analysis.ipynb  # Main analysis notebook
-│   ├── data_exploration.ipynb    # Exploratory data analysis
-│   └── model_comparison.ipynb    # Model performance comparison
-├── src/                          # Source code modules
-│   ├── data_preprocessing.py     # Data cleaning and preparation
-│   ├── model_training.py         # ML model training pipeline
-│   ├── neural_network.py         # Deep learning implementation
-│   └── prediction_api.py         # API for model predictions
-├── models/                       # Trained model artifacts
-│   ├── best_models/             # Production-ready models
-│   └── model_comparison.pkl     # Model comparison results
-├── docs/                        # Project documentation
-│   ├── methodology.md           # Technical methodology
-│   ├── model_performance.md     # Performance analysis
-│   └── clinical_insights.md     # Healthcare insights
-├── data/                        # Data files (processed)
-├── requirements.txt             # Python dependencies
-├── setup.py                     # Package setup configuration
-└── app.py                       # Web application interface
 Key Features
 Advanced Analytics
 
