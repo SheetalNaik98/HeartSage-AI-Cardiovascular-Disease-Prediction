@@ -65,6 +65,11 @@ Clinical Decision Support for healthcare professionals
 | KNN                  | 80.3%    | 0.79      | 0.82   | 0.80     |
 
 ## Dataset and Features
+- Comprehensive EDA and feature correlation analysis.
+- Visualizations of model performance (ROC curves, confusion matrices).
+- Automated model training with cross-validation and hyperparameter tuning.
+- Custom neural network design with dropout and batch normalization.
+- Clinical decision support through feature importance and probability scoring.
 
 ### Clinical Parameters Analyzed
 - Age
@@ -114,3 +119,12 @@ jupyter notebook notebooks/HeartSage_Analysis.ipynb
 
 # Or launch prediction API
 python app.py
+
+
+
+
+Email: naik.she@northeastern.edu
+
+LinkedIn: https://www.linkedin.com/in/sheetalnaik22/
+
+
