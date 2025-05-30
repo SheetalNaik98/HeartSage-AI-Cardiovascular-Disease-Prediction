@@ -70,6 +70,17 @@ Clinical Decision Support for healthcare professionals
 - Automated model training with cross-validation and hyperparameter tuning.
 - Custom neural network design with dropout and batch normalization.
 - Clinical decision support through feature importance and probability scoring.
+## Installation and Setup
+### Prerequisites
+- Python 3.8 or higher
+- `pip` package manager
+- Virtual environment (recommended)
+
+## Clinical Impact
+- Early detection of cardiovascular risk.
+- Personalized treatment planning.
+- Integration potential with clinical decision support systems and EHRs.
+- Insights into key clinical predictors (e.g., chest pain type, max heart rate, ST depression).
 
 ### Clinical Parameters Analyzed
 - Age
@@ -94,12 +105,24 @@ Clinical Decision Support for healthcare professionals
 - Feature Selection (correlation, importance ranking)
 - Stratified train-validation-test splits
 
-## Installation and Setup
+## Academic Context
+- Institution: Northeastern University
 
-### Prerequisites
-- Python 3.8 or higher
-- `pip` package manager
-- Virtual environment (recommended)
+- Duration: January 2024 - April 2024
+
+- Course: Healthcare Analytics / Machine Learning
+
+- Objective: Demonstrate an AI application in healthcare.
+
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+- Project Lead: Sheetal Naik
+
+- Email: naik.she@northeastern.edu
+
+- LinkedIn: https://www.linkedin.com/in/sheetalnaik22/
 
 ### Quick Start
 ```bash
@@ -120,11 +143,5 @@ jupyter notebook notebooks/HeartSage_Analysis.ipynb
 # Or launch prediction API
 python app.py
 
-
-
-
-Email: naik.she@northeastern.edu
-
-LinkedIn: https://www.linkedin.com/in/sheetalnaik22/
 
 
